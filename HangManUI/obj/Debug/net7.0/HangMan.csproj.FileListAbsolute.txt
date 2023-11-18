@@ -1,0 +1,4 @@
+C:\ElevenFiftyProjects_177\assignments\HangMan\HangMan\obj\Debug\net7.0\HangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects_177\assignments\HangMan\HangMan\obj\Debug\net7.0\HangMan.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects_177\assignments\HangMan\HangMan\obj\Debug\net7.0\HangMan.AssemblyInfo.cs
+C:\ElevenFiftyProjects_177\assignments\HangMan\HangMan\obj\Debug\net7.0\HangMan.csproj.CoreCompileInputs.cache

@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangManUI\\HangManUI.csproj": {}
+  },
+  "projects": {
+    "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanData\\HangmanData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanData\\HangmanData.csproj",
+        "projectName": "HangmanData",
+        "projectPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanData\\HangmanData.csproj",
+        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanRepo\\HangmanRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanRepo\\HangmanRepo.csproj",
+        "projectName": "HangmanRepo",
+        "projectPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanRepo\\HangmanRepo.csproj",
+        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanRepo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanData\\HangmanData.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanData\\HangmanData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangManUI\\HangManUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangManUI\\HangManUI.csproj",
+        "projectName": "HangManUI",
+        "projectPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangManUI\\HangManUI.csproj",
+        "packagesPath": "C:\\Users\\13179\\.nuget\\packages\\",
+        "outputPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangManUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\13179\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanData\\HangmanData.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanData\\HangmanData.csproj"
+              },
+              "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanRepo\\HangmanRepo.csproj": {
+                "projectPath": "C:\\ElevenFiftyProjects_177\\assignments\\HangMan\\HangmanRepo\\HangmanRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
